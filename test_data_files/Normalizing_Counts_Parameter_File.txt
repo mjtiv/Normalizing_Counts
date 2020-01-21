@@ -1,0 +1,15 @@
+#####################################################
+#####################################################
+	Normalizing Counts Parameter File 
+#####################################################
+#####################################################
+  ALL variables are space seperated from input key	
+
+Testable Ensemble Genes Reported by VRPM Program
+--Testable_Counts_File Testable_Ensemble_Gene_IDs.txt
+
+Significant Genes (Showed ASE) Reported by VRPM Program
+--Significant_Counts_File Sig_Ensemble_Gene_IDs.txt
+
+Annotation File (Sig Variants Only)- VEP Output File
+--Sig_Var_VEP_Annot_File Sig_Variants_VEP.txt
