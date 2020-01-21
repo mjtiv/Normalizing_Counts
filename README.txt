@@ -1,5 +1,5 @@
 Program: Normalizing Counts 
-Created by M. Joseph Tomlinson
+Created by M. Joseph Tomlinson IV and Behnam Abasht
 
 Note: Code was Developed in the Abasht Laboratory at the University of Delaware 
 under the supervision of Dr. Behnam Abasht website: "http://canr.udel.edu/faculty/behnam-abasht/"
